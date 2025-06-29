@@ -1,0 +1,1 @@
+spark = sparksession.builder.appname("Session1").getOrCreate()
